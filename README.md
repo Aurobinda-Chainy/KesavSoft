@@ -89,7 +89,7 @@ The website consists of three main pages — **Home**, **About**, and **Contact*
 ---
 
 ## Project Links
-- **GitHub Repository:** https://github.com/Aurobinda-Chainy/KesavSoft/tree/main
+- **GitHub Repository:** https://github.com/Aurobinda-Chainy/KesavSoft
 - **Live Preview:** https://aurobinda-chainy.github.io/KesavSoft/
 
 ---
