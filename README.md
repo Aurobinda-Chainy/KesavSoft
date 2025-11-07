@@ -60,3 +60,14 @@ EduCourses/
 │── images/
 │ └── (All images and icons used)
 └── README.md
+
+
+## 🚀 How to Run Locally
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/EduCourses.git
+
+# Open the project folder
+cd EduCourses
+
+# Open index.html in a browser
