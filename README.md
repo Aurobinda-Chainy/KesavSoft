@@ -7,7 +7,7 @@ The project was created as part of an **internship task** to explore Bootstrap c
 
 ## 🌐 Live Demo
 🔗 **Live Link:** https://aurobinda-chainy.github.io/KesavSoft/  
-🔗 **GitHub Repository:** https://github.com/yourusername/EduCourses
+🔗 **GitHub Repository:** https://github.com/Aurobinda-Chainy/KesavSoft/tree/main
 
 ---
 
